@@ -6,7 +6,7 @@ func main(){
 	
 	
 	
-	for a := 100 ; a <= 1000 ; a ++  {
+	for a := 1 ; a <= 1000 ; a ++  {
 		jami += a
 	}
 	println(jami)
