@@ -6,7 +6,7 @@ func main(){
 
 var sekund int
   
-
+// 			B7
 
 fmt.Println("Necha sekund o'tganini yozing :")
 fmt.Scanln(&sekund)

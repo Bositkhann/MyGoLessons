@@ -11,13 +11,13 @@ func main(){
 
 	switch choice {
 	case 1:
-		fmt.Println("Your balance is 120000$")
+		fmt.Println("Your balance is 9999999999999$")
 		break	// --> break or NOT NEEDED
 	case 2:
-		fmt.Println("123 SMS came to you ")
+		fmt.Println("999 SMS came to you from president ")
 		break
 	case 3:
-		fmt.Println("Limit 12 GB")
+		fmt.Println("Limit 999 TB")
 		break
 	default:
 		fmt.Println("This number is No! DANG 🤦‍♂️")
