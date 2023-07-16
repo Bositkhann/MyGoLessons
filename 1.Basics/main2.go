@@ -4,7 +4,7 @@
 
  func main () {
 
-var h string = "$"
+var h string = "M"
 
 
 

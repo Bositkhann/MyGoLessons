@@ -17,7 +17,7 @@ var j string = "="
  m  := "Naf"
  n  := "isa"
 
-fmt.Printf("%d %s %d %s %d", m ,h,n,j,m * n)
+fmt.Printf("%d %s %d %s %d", m ,h,n,j,m + n)
 fmt.Println( m + n)
 
 }
